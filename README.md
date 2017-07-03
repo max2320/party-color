@@ -1,4 +1,4 @@
-# Party-collor
+# Party-color
 
 This is a app to make party lights efects only with screens.
 
